@@ -23,6 +23,7 @@ public class HelloWorld {
     @RequestMapping("/msg")
     public String hexo() {
         String a="1";
+        String b="2";
         return name + "," + want;
     }
 
