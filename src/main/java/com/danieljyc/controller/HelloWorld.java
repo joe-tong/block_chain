@@ -16,6 +16,7 @@ public class HelloWorld {
 
     @RequestMapping("/")
     public String index() {
+         System.out.println("2.0");
         return "Hello Spring Boot3";
     }
 
