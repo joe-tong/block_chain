@@ -28,6 +28,7 @@ public class HelloWorld {
         System.out.println("1.0");
 
         String a="1";
+        String dev="2";
         System.out.println("test1");
 
         return name + "," + want;
